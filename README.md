@@ -24,7 +24,8 @@ Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve prob
 
 ## Repositories 🚀
 ### Certificates-Diplomas-Badges 🔧
-[![Imagine Proiect 3]((https://i.ibb.co/SwPLpRCL/Screenshot-7.png))](https://github.com/FlaviusBanned/Certificates-Diplomas-Badges)
+[![Screenshot-7](https://i.ibb.co/SwPLpRCL/Screenshot-7.png)](https://ibb.co/ZzVZCWDZ)
+
 
 Acest proiect se concentrează pe automatizarea proceselor interne ale unei afaceri 🏢, utilizând **Python** 🐍 și **C++** ⚙️ pentru a crea soluții de backend performante și scalabile.
 
