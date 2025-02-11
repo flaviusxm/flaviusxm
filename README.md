@@ -23,10 +23,11 @@ Cred cu tărie că tehnologia poate schimba lumea în bine 🌍, iar scopul meu 
 Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve probleme tehnice, dar și să aducă un impact pozitiv asupra vieții oamenilor, în special celor care nu au acces la tehnologie de ultimă generație 💻. Vreau să contribui la dezvoltarea unui viitor digital echitabil și sustenabil 🌱.
 
 ## Repositories 🚀
+### Proiectul 3 🔧
+Acest proiect se concentrează pe automatizarea proceselor interne ale unei afaceri 🏢, utilizând **Python** 🐍 și **C++** ⚙️ pentru a crea soluții de backend performante și scalabile.
 
-### [Proiectul 1](https://github.com/username/proiect1) 🎯
-### [Proiectul 2](https://github.com/username/proiect2) 📱
-### [Certificates-Diplomas-Badges](https://github.com/FlaviusBanned/Certificates-Diplomas-Badges) 🔧
+[![Imagine Proiect 3](https://via.placeholder.com/600x300.png?text=Proiect+3)](https://github.com/FlaviusBanned/Certificates-Diplomas-Badges))
+
 
 ## Abilități și interese 🛠️
 
