@@ -26,8 +26,6 @@ Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve prob
 ### Certificates-Diplomas-Badges 🔧
 [![Screenshot-7](https://imgur.com/a/vFvMgU4)](https://github.com/FlaviusBanned/Certificates-Diplomas-Badges)
 
-<img src="https://imgur.com/a/vFvMgU4.png" width="400" height="400">
-
 
 Acest proiect se concentrează pe automatizarea proceselor interne ale unei afaceri 🏢, utilizând **Python** 🐍 și **C++** ⚙️ pentru a crea soluții de backend performante și scalabile.
 
