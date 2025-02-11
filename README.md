@@ -23,7 +23,7 @@ Cred cu tărie că tehnologia poate schimba lumea în bine 🌍, iar scopul meu 
 Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve probleme tehnice, dar și să aducă un impact pozitiv asupra vieții oamenilor, în special celor care nu au acces la tehnologie de ultimă generație 💻. Vreau să contribui la dezvoltarea unui viitor digital echitabil și sustenabil 🌱.
 
 <div style="display: flex; align-items: center;">
-    <div style="margin-left: 20px;">
+    <div style="margin-left: 20px; display: flex; flex-direction: column; align-items: flex-start;">
         <h2>Repositories 🚀</h2>
         <h3>Certificates-Diplomas-Badges 🔧</h3>
         <p>Acest proiect se concentrează pe automatizarea proceselor interne ale unei afaceri 🏢, utilizând <strong>Python</strong> 🐍 și <strong>C++</strong> ⚙️ pentru a crea soluții de backend performante și scalabile.</p>
