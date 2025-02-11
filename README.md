@@ -25,7 +25,7 @@ Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve prob
 ## Repositories 🚀
 ### Certificates-Diplomas-Badges 🔧
 <a href="https://github.com/FlaviusBanned/Certificates-Diplomas-Badges">
-    <img src="https://i.ibb.co/SwPLpRCL/Screenshot-7.png" alt="Screenshot-7" border="0">
+    <img src="https://i.ibb.co/SwPLpRCL/Screenshot-7.png" alt="Screenshot-7" width="300" height="300" border="0">
 </a>
 
 
