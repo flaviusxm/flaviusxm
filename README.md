@@ -22,16 +22,11 @@ Cred cu tărie că tehnologia poate schimba lumea în bine 🌍, iar scopul meu 
 
 Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve probleme tehnice, dar și să aducă un impact pozitiv asupra vieții oamenilor, în special celor care nu au acces la tehnologie de ultimă generație 💻. Vreau să contribui la dezvoltarea unui viitor digital echitabil și sustenabil 🌱.
 
-## Proiectele mele 🚀
+## Repositories 🚀
 
 ### [Proiectul 1](https://github.com/username/proiect1) 🎯
-Acesta este un proiect care utilizează **React** ⚛️ și **Next.js** 🚀 pentru a construi aplicații web rapide și scalabile. Proiectul adresează o problemă specifică a afacerilor mici, ajutându-le să își gestioneze mai eficient datele și procesul de vânzare 💼.
-
 ### [Proiectul 2](https://github.com/username/proiect2) 📱
-Un proiect dedicat dezvoltării de aplicații mobile pentru **React Native** 📱, care are ca scop îmbunătățirea accesului la servicii educaționale pentru comunități defavorizate 📚. Folosind tehnologii de ultimă oră, creăm aplicații accesibile și eficiente.
-
-### [Proiectul 3](https://github.com/username/proiect3) 🔧
-Acest proiect se concentrează pe automatizarea proceselor interne ale unei afaceri 🏢, utilizând **Python** 🐍 și **C++** ⚙️ pentru a crea soluții de backend performante și scalabile.
+### [Certificates-Diplomas-Badges](https://github.com/FlaviusBanned/Certificates-Diplomas-Badges) 🔧
 
 ## Abilități și interese 🛠️
 
