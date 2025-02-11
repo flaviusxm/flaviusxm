@@ -1,4 +1,4 @@
-# Bun venit pe profilul meu de GitHub! 👋
+# 👋 👋 👋
 
 Salut! Sunt **Ion Popescu** 👨‍💻, un dezvoltator software pasionat de tehnologie și soluții inovative 🌐. Am experiență vastă în dezvoltarea de aplicații software care pot adresa diverse nevoi, de la aplicații web 🌍 la soluții integrate pentru afaceri 🏢.
 
