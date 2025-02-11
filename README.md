@@ -1,6 +1,6 @@
 # 👋 👋 👋
 
-Salut! Sunt **Ion Popescu** 👨‍💻, un dezvoltator software pasionat de tehnologie și soluții inovative 🌐. Am experiență vastă în dezvoltarea de aplicații software care pot adresa diverse nevoi, de la aplicații web 🌍 la soluții integrate pentru afaceri 🏢.
+Salut! Sunt **Flavius** 👨‍💻, un dezvoltator software pasionat de tehnologie și soluții inovative 🌐. Am experiență vastă în dezvoltarea de aplicații software care pot adresa diverse nevoi, de la aplicații web 🌍 la soluții integrate pentru afaceri 🏢.
 
 ## Despre mine 👨‍💻
 Am lucrat cu o varietate de tehnologii 🔧, incluzând limbaje de programare precum **Python** 🐍, **C** 💻, **C++** ⚙️ și **Assembly** 🛠️, dar și tehnologii web moderne, cum ar fi **HTML** 🌐, **CSS** 🎨 și **JavaScript** 💡. 
@@ -38,8 +38,7 @@ Acest proiect se concentrează pe automatizarea proceselor interne ale unei afac
 - **Dezvoltare sustenabilă** 🌱 – Promovez utilizarea tehnologiilor care sprijină un viitor sustenabil, atât pentru afaceri, cât și pentru mediul înconjurător.
 
 ## Contact 📬
-- Email: [ion.popescu@example.com](mailto:ion.popescu@example.com) 📧
-- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/ionpopescu) 🔗
-- Twitter: [Profil Twitter](https://twitter.com/ionpopescu) 🐦
+- Email: [mihaiflavius_27@yahoo.com](mailto:mihaiflavius_27@yahoo.com) 📧
+- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
 
 Mulțumesc că ai vizitat profilul meu! Sunt întotdeauna deschis la colaborări și noi provocări tehnice. 🚀
