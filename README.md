@@ -1,21 +1,19 @@
 # 👋 👋 👋
 
-Salut! Sunt **Flavius** 👨‍💻, un dezvoltator software pasionat de tehnologie și soluții inovative 🌐. Am experiență vastă în dezvoltarea de aplicații software care pot adresa diverse nevoi, de la aplicații web 🌍 la soluții integrate pentru afaceri 🏢.
+## About me 
 
-## Despre mine 👨‍💻
-Am lucrat cu o varietate de tehnologii 🔧, incluzând limbaje de programare precum **Python** 🐍, **C** 💻, **C++** ⚙️ și **Assembly** 🛠️, dar și tehnologii web moderne, cum ar fi **HTML** 🌐, **CSS** 🎨 și **JavaScript** 💡. 
+Hey there! My name is Flavius 👨‍💻, a dedicated software developer with a strong passion for WebApps Engineering and AI 🌐. I'm currently in my second year at the Faculty of Cybernetics, Statistics and Computer Science, specializing in Computer Science. I truly believe in the power of technology to make a positive impact, which is why I actively seek opportunities to help underserved communities and empower individuals through coding. I’m driven by the idea of transforming concepts into reality by leveraging programming to create practical, meaningful solutions. Whether it’s through mentoring or developing innovative software, I’m committed to making a difference.
 
-În ultimii ani, am devenit expert în **React** ⚛️, **React Native** 📱 și **Next.js** 🚀, folosind aceste frameworkuri pentru a construi aplicații performante și scalabile. De asemenea, sunt pasionat de asigurarea calității codului 🛡️ și folosesc unelte precum **ESLint** ⚙️ pentru a mă asigura că aplicațiile mele sunt bine structurate și eficiente. Pentru design-ul rapid și modern al interfeței utilizator, prefer **Tailwind CSS** 🌟.
+## Main Technologies I Work With ⚡
 
-## Principalele tehnologii cu care lucrez ⚡
+- Python 🐍, C 💻, C++ ⚙️, Java ☕, JavaScript 💡
+- HTML 🌐, CSS 🎨, Sass 💅, Tailwind CSS 🌟
+- React ⚛️, React Native 📱, Next.js 🚀
+- Node.js 🧩, Express.js 🛠️
+- Git 🧳, ESLint 🧹
+- Netlify 🌍, Firebase 🔥
 
-- **Python** 🐍, **C** 💻, **C++** ⚙️ – Limbaje de programare folosite pentru a crea soluții robuste, performante și scalabile.
-- **Assembly** 🛠️ – Experiență în programarea la nivel de hardware și optimizări de performanță.
-- **HTML** 🌐, **CSS** 🎨 – Bazele dezvoltării web, folosite pentru a crea interfețe utilizator intuitive.
-- **JavaScript** 💡, **React** ⚛️, **React Native** 📱, **Next.js** 🚀 – Framework-uri și biblioteci moderne pentru dezvoltarea de aplicații web și mobile.
-- **ESLint** ⚙️ – Un instrument de analiză statică pentru a menține un cod curat și ușor de întreținut.
-- **Tailwind CSS** 🌟 – Utilizare a unui framework CSS pentru design rapid și personalizat.
-
+  
 ## Viziunea mea 🌱
 
 Cred cu tărie că tehnologia poate schimba lumea în bine 🌍, iar scopul meu este să dezvolt soluții software care să ajute comunitățile defavorizate și să sprijine afaceri mici și mijlocii să își dezvolte procesele și să își îmbunătățească performanțele 📈.
@@ -39,6 +37,6 @@ Acest proiect se concentrează pe automatizarea proceselor interne ale unei afac
 
 ## Contact 📬
 - Email: [mihaiflavius_27@yahoo.com](mailto:mihaiflavius_27@yahoo.com) 📧
-- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
+- LinkedIn: [Mihai Flavius LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
 
 Mulțumesc că ai vizitat profilul meu! Sunt întotdeauna deschis la colaborări și noi provocări tehnice. 🚀
