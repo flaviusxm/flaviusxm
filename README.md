@@ -19,7 +19,7 @@ Hey there! My name is Flavius 👨‍💻, a dedicated software developer with a
 
 In this repository, you will find achievements 🏆, diplomas 🎓, badges 🥇, and all sorts of related things 📜✨.
 
-##My Vision and Skills 🌱
+## My Vision and Skills 🌱
 
 I strongly believe that technology has the power to change the world for the better 🌍, and my goal is to develop software solutions that not only assist underserved communities but also support small and medium businesses in improving their processes and boosting their performance 📈. By creating innovative products 💡, I aim to address technical challenges while positively impacting people's lives, especially those without access to cutting-edge technology 💻.
 
@@ -29,4 +29,4 @@ I’m passionate about building efficient, scalable solutions using object-orien
 - Email: [mihaiflavius_27@yahoo.com](mailto:mihaiflavius_27@yahoo.com) 📧
 - LinkedIn: [Mihai Flavius LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
 
-Mulțumesc că ai vizitat profilul meu! Sunt întotdeauna deschis la colaborări și noi provocări tehnice. 🚀
+Thank you for visiting my profile! I am always open to collaborations and new technical challenges. 🚀
