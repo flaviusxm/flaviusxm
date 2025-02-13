@@ -13,25 +13,17 @@ Hey there! My name is Flavius 👨‍💻, a dedicated software developer with a
 - Git 🧳, ESLint 🧹
 - Netlify 🌍, Firebase 🔥
 
-  
-## Viziunea mea 🌱
-
-Cred cu tărie că tehnologia poate schimba lumea în bine 🌍, iar scopul meu este să dezvolt soluții software care să ajute comunitățile defavorizate și să sprijine afaceri mici și mijlocii să își dezvolte procesele și să își îmbunătățească performanțele 📈.
-
-Viziunea mea este să creez produse inovative 💡 care nu doar să rezolve probleme tehnice, dar și să aducă un impact pozitiv asupra vieții oamenilor, în special celor care nu au acces la tehnologie de ultimă generație 💻. Vreau să contribui la dezvoltarea unui viitor digital echitabil și sustenabil 🌱.
-
 ## Repositories 🚀
 
 ### [Certificates-Diplomas-Badges 🔧](https://github.com/FlaviusBanned/Certificates-Diplomas-Badges)
 
 In this repository, you will find achievements 🏆, diplomas 🎓, badges 🥇, and all sorts of related things 📜✨.
 
-## Abilități și interese 🛠️
+##My Vision and Skills 🌱
 
-- **Programare orientată pe obiect** 🧑‍💻 și **structuri de date** 📊 – Creez soluții eficiente și scalabile.
-- **Soluții open-source** 🌍 – Contribui activ la proiecte open-source pentru a îmbunătăți accesul la tehnologie.
-- **Automatizare** 🤖 – Automatizez procesele repetitive pentru a îmbunătăți eficiența și pentru a ajuta afaceri să economisească timp și resurse.
-- **Dezvoltare sustenabilă** 🌱 – Promovez utilizarea tehnologiilor care sprijină un viitor sustenabil, atât pentru afaceri, cât și pentru mediul înconjurător.
+I strongly believe that technology has the power to change the world for the better 🌍, and my goal is to develop software solutions that not only assist underserved communities but also support small and medium businesses in improving their processes and boosting their performance 📈. By creating innovative products 💡, I aim to address technical challenges while positively impacting people's lives, especially those without access to cutting-edge technology 💻.
+
+I’m passionate about building efficient, scalable solutions using object-oriented programming 🧑‍💻 and data structures 📊, and I actively contribute to open-source projects 🌍 to make technology more accessible to all. I also focus on automation 🤖, streamlining repetitive tasks to improve business efficiency and save time and resources. Above all, I am committed to sustainable development 🌱, ensuring that the technologies I create support a fair and eco-friendly digital future for businesses and the environment alike.
 
 ## Contact 📬
 - Email: [mihaiflavius_27@yahoo.com](mailto:mihaiflavius_27@yahoo.com) 📧
