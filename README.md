@@ -10,8 +10,8 @@ Hey there! My name is Flavius 👨‍💻, a dedicated software developer with a
 - HTML 🌐, CSS 🎨, Sass 💅, Tailwind CSS 🌟
 - React ⚛️, React Native 📱, Next.js 🚀
 - Node.js 🧩, Express.js 🛠️
-- Git 🧳, ESLint 🧹
 - Netlify 🌍, Firebase 🔥
+- Git 🧳, ESLint 🧹
 
 ## Repositories 🚀
 
