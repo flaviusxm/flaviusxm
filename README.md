@@ -23,8 +23,8 @@ In this repository, you will find achievements 🏆, diplomas 🎓, badges 🥇,
 I strongly believe that technology has the power to change the world for the better 🌍, and my goal is to develop software solutions that not only assist underserved communities but also support small and medium businesses in improving their processes and boosting their performance 📈. By creating innovative products 💡, I aim to address technical challenges while positively impacting people's lives, especially those without access to cutting-edge technology 💻.
 
 ## Contact 📬
-- Email: [mihaiflavius_27@yahoo.com](mailto:mihaiflavius_27@yahoo.com) 📧
-- [LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
+- [mihai.pirjoleanu@gmail.com](mailto:mihai.pirjoleanu@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/)
 - [HackerRank](https://www.hackerrank.com/profile/888flavius)
 
 Thank you for visiting my profile! I am always open to collaborations and new technical challenges. 🚀
