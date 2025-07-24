@@ -24,7 +24,7 @@ I strongly believe that technology has the power to change the world for the bet
 
 ## Contact 📬
 - Email: [mihaiflavius_27@yahoo.com](mailto:mihaiflavius_27@yahoo.com) 📧
-- LinkedIn: [Mihai Flavius LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
-- HackerRank: [Mihai Flavius HackerRank](https://www.hackerrank.com/profile/888flavius)
+- [LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/) 🔗🐦
+- [HackerRank](https://www.hackerrank.com/profile/888flavius)
 
 Thank you for visiting my profile! I am always open to collaborations and new technical challenges. 🚀
