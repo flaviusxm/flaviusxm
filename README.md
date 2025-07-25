@@ -6,7 +6,7 @@ Hey there! My name is Flavius 👨‍💻, a dedicated student with a strong pas
 ## Main Technologies I Work With ⚡
 
 - Python 🐍, C 💻, C++ ⚙️, Java ☕, JavaScript 💡
-- HTML 🌐, CSS 🎨, Sass 💅, Tailwind CSS 🌟
+- HTML 🌐, BootStrap CSS 🎨, Tailwind CSS 🌟
 - React ⚛️, React Native 📱, Next.js 🚀
 - Node.js 🧩, Express.js 🛠️
 - Netlify 🌍, Firebase 🔥
