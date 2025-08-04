@@ -25,4 +25,3 @@ I strongly believe that technology has the power to change the world for the bet
 ## Contact 📬
 - [mihai.pirjoleanu@gmail.com](mailto:mihai.pirjoleanu@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mihai-flavius-pirjoleanu-51410430a/)
-Thank you for visiting my profile! I am always open to collaborations and new technical challenges. 🚀
