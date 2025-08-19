@@ -3,14 +3,9 @@
 
 Hey there! My name is Flavius 👨‍💻, a dedicated student with a strong passion for WebApps Engineering and AI 🌐. I'm currently in my last year at the Faculty of Cybernetics, Statistics and Computer Science, specializing in Economic Informatics. I truly believe in the power of technology to make a positive impact, which is why I actively seek opportunities to help underserved communities and empower individuals through coding. I’m driven by the idea of transforming concepts into reality by leveraging programming to create practical, meaningful solutions. Whether it’s through mentoring or developing innovative software, I’m committed to making a difference.
 
-## Main Technologies I Work With ⚡
+## I Work With ⚡
 
 - Python 🐍, C 💻, C++ ⚙️, Java ☕, JavaScript 💡
-- HTML 🌐, BootStrap CSS 🎨, Tailwind CSS 🌟
-- React ⚛️, React Native 📱, Next.js 🚀
-- Node.js 🧩, Express.js 🛠️
-- Netlify 🌍, Firebase 🔥
-- Git 🧳, ESLint 🧹
 
 ## Repositories 🚀
 
